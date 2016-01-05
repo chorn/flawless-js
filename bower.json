@@ -1,0 +1,9 @@
+{
+  "name": "flawless-js",
+  "version": "0.1.0",
+  "author": "Chris Horn <chorn@chorn.com>",
+  "main": [
+    "flawless-min.js",
+    "flawless.js"
+  ]
+}
